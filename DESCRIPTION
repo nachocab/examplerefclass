@@ -1,0 +1,11 @@
+Package: examplerefclass
+Maintainer: Nacho <a@a.com>
+Author: Nacho
+Version: 0.0.1
+License: GPL-3
+Title: Example refclass
+Description: Example refclass
+Imports:
+    methods
+Collate:
+    'main.R'
